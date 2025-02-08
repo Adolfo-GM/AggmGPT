@@ -1,6 +1,6 @@
 # AggmGPT
 
-AggmGPT is a lightweight AI language model developed by **Adolfo GM**, designed to generate human-like text using n-gram models combined with self-attention mechanisms. The project is licensed under the **MIT License**, making it open-source and free for modification and distribution.
+AggmGPT is a lightweight foundational AI language model developed by **Adolfo GM**, designed to generate human-like text using n-gram models combined with self-attention mechanisms. The project is licensed under the **MIT License**, making it open-source and free for modification and distribution.
 
 ## Features
 - Implements **Self-Attention** and **Multi-Head Attention** for improved context understanding.
@@ -24,3 +24,6 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## Author
 Created by **Adolfo GM**.
+
+![example chat](i.png)
+![example chat](t.png)
