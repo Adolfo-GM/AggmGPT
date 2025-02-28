@@ -1,4 +1,4 @@
-<img src="AggmGPT.png" height="200">
+<img src="logo.png" height="200">
 
 
 # AggmGPT
