@@ -1,4 +1,4 @@
-# View the new version [AggmGPT-2](https://github.com/Adolfo-GM/AggmGPT-2)
+# View the new version [AggmGPT-2](https://github.com/Adolfo-GM/AggmGPT-2) !
 
 
 <img src="logo.png" height="200">
