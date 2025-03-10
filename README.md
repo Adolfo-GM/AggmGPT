@@ -1,9 +1,7 @@
-# View the new version [AggmGPT-2](https://github.com/Adolfo-GM/AggmGPT-2) !
-
-# AggmGPT
-
+# View [AggmGPT-2](https://github.com/Adolfo-GM/AggmGPT-2) !
 Read the [research paper of AggmGPT-2](OfflineLocalPersonalizedArtificalIntelligence.pdf)
 
+# AggmGPT
 
 <img src="logo.png" height="200">
 
