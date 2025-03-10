@@ -1,5 +1,5 @@
 ### View [AggmGPT-2](https://github.com/Adolfo-GM/AggmGPT-2) !
-Read the research paper of [AggmGPT-2](OfflineLocalPersonalizedArtificalIntelligence.pdf)
+Read the [research paper of AggmGPT-2](OfflineLocalPersonalizedArtificalIntelligence.pdf)
 
 # AggmGPT
 
